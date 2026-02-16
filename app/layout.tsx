@@ -10,8 +10,8 @@ const montserrat = Montserrat({
 })
 
 export const metadata: Metadata = {
-  title: "Jerry Portfolio",
-  description: "Jeremiah's Portfolio Website",
+  title: "Design_Dev Portfolio",
+  description: "Emmanuel's Portfolio Website",
   icons: {
     icon: "/portfoliologo.png", 
     apple: "/portfoliologo.png",
